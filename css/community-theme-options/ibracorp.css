@@ -1,5 +1,5 @@
 :root {
-  --main-bg-color: #2b2626;
+  --main-bg-color: #262a2b;
 
   --modal-bg-color: #333;
   --modal-header-color: #232323;
@@ -20,7 +20,7 @@
     
   --text: #dbd1d1;
   --text-hover: #fff;
-  --text-muted: #af9c9c;
+  --text-muted: #9ca3af;
 
   /*Specials*/
   --arr-queue-color: #d16057; /* Servarr apps + Bazarr*/
