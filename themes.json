@@ -18,7 +18,7 @@
     },
     "plex": {
       "overseerr-side-menu": "https://themes.reid.ca\n/css/addons/plex/overseerr-side-menu/overseerr-side-menu.css?sha=b14fcec4d4226f766e3f3931b073b4b45ea416ff",
-      "plex-alt-logo": "https://themes.reid.ca\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=89382f1872377945c372ec2b71d1437b714e0b66"
+      "plex-alt-logo": "https://themes.reid.ca\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=b05e868528000152dd9a6b9ed93041fcc4b5c70f"
     },
     "prowlarr": {
       "prowlarr-darker": "https://themes.reid.ca\n/css/addons/prowlarr/prowlarr-darker/prowlarr-darker.css?sha=75c317fe4b826126d84b085638abf8ce6b1ff600"
@@ -326,7 +326,7 @@
     "plex": {
       "addons": {
         "overseerr-side-menu": "https://themes.reid.ca\n/css/addons/plex/overseerr-side-menu/overseerr-side-menu.css?sha=b14fcec4d4226f766e3f3931b073b4b45ea416ff",
-        "plex-alt-logo": "https://themes.reid.ca\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=89382f1872377945c372ec2b71d1437b714e0b66"
+        "plex-alt-logo": "https://themes.reid.ca\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=b05e868528000152dd9a6b9ed93041fcc4b5c70f"
       },
       "base_css": "https://themes.reid.ca\n/css/base/plex/plex-base.css?sha=37e3d6c4e83bbb36170d8c847883479385c0a97a"
     },
