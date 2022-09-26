@@ -67,7 +67,7 @@
         "ibracorp": {
           "css": [
             "https://themes.reid.ca\n/css/addons/unraid/login-page/ibracorp/ibracorp-base.css?sha=24c5e667fd44976f4e474eba50e030b5af8f5b88",
-            "https://themes.reid.ca\n/css/addons/unraid/login-page/ibracorp/ibracorp_video.css?sha=6fa80150f8b7740d92c113d9f463c4646aad44f9"
+            "https://themes.reid.ca\n/css/addons/unraid/login-page/ibracorp/ibracorp_video.css?sha=245eb0f20acaff630858a3af02d680fb32812819"
           ]
         },
         "retro-terminal": {
@@ -432,7 +432,7 @@
           "ibracorp": {
             "css": [
               "https://themes.reid.ca\n/css/addons/unraid/login-page/ibracorp/ibracorp-base.css?sha=24c5e667fd44976f4e474eba50e030b5af8f5b88",
-              "https://themes.reid.ca\n/css/addons/unraid/login-page/ibracorp/ibracorp_video.css?sha=6fa80150f8b7740d92c113d9f463c4646aad44f9"
+              "https://themes.reid.ca\n/css/addons/unraid/login-page/ibracorp/ibracorp_video.css?sha=245eb0f20acaff630858a3af02d680fb32812819"
             ]
           },
           "retro-terminal": {
