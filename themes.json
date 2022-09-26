@@ -65,7 +65,9 @@
           ]
         },
         "ibracorp": {
-          "css": []
+          "css": [
+            "https://themes.reid.ca\n/css/addons/unraid/login-page/ibracorp/ibracorp_video.css?sha=792d6005489ebee62cde02066f19c5521e620451"
+          ]
         },
         "retro-terminal": {
           "css": [
@@ -427,7 +429,9 @@
             ]
           },
           "ibracorp": {
-            "css": []
+            "css": [
+              "https://themes.reid.ca\n/css/addons/unraid/login-page/ibracorp/ibracorp_video.css?sha=792d6005489ebee62cde02066f19c5521e620451"
+            ]
           },
           "retro-terminal": {
             "css": [
