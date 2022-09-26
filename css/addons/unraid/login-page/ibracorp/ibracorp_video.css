@@ -27,7 +27,7 @@
 }
 @media (max-width: 500px) {
     body {
-        background: url(/css/addons/unraid/login-page/fallout/wallpaper/terminal.jpg) center center/cover no-repeat fixed !important;
+        background: url(/css/addons/unraid/login-page/ibracorp/wallpaper/Background1920.png) center center/cover no-repeat fixed !important;
     }
     :root {
         --div-background-color-15: transparent; 
