@@ -2,14 +2,14 @@
 :root {
     --main-bg-color: transparent;
     --logo: url(/css/addons/unraid/login-page/ibracorp/logo/IBRACORP_Neon.png) center no-repeat;
-    --text-color: #14F074;
-    --input-color: #14F074;
-    --link-color: #14F074;
-    --link-color-hover: #0C833D;
-    --case-color: #14F074;
-    --button-text-color: #14F074;
+    --text-color: #e94b3c;
+    --input-color: #e94b3c;
+    --link-color: #e94b3c;
+    --link-color-hover: #b02417;
+    --case-color: #e94b3c;
+    --button-text-color: #e94b3c;
     --button-text-color-hover: #FFFFFF;
-    --button-color: #14F074;
+    --button-color: #e94b3c;
     --button-color2: #0C833D;
     --input-font: 'Share Tech Mono', monospace;
     --text-font: 'Share Tech Mono', monospace;
