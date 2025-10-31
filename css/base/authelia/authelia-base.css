@@ -42,6 +42,10 @@ button[aria-label="toggle password visibility"]:hover {
     color: rgba(from var(--text) r g b / 0.5);
 }
 
+svg#UserSvg[class*="-icon"] {
+    fill: var(--text-hover)
+}
+
 /* Button styles */
 .MuiButton-colorPrimary, .MuiButton-colorInfo {
     --variant-containedBg: var(--button-color);
