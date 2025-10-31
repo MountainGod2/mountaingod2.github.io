@@ -1,0 +1,11 @@
+.MuiBox-root[alt*="Logo"] {
+    content: url("/css/addons/authelia/authelia-photoprism-logo/photoprism.webp");
+}
+
+h5.MuiTypography-root::after {
+    content: " - PhotoPrism";
+}
+
+#sign-in-button::after {
+    content: " - PhotoPrism";
+}

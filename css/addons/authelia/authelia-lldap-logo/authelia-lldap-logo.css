@@ -1,0 +1,11 @@
+.MuiBox-root[alt*="Logo"] {
+    content: url("/css/addons/authelia/authelia-lldap-logo/lldap.webp");
+}
+
+h5.MuiTypography-root::after {
+    content: " - LLDAP";
+}
+
+#sign-in-button::after {
+    content: " - LLDAP";
+}

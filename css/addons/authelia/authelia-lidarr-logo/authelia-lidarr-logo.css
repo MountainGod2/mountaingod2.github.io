@@ -1,0 +1,11 @@
+.MuiBox-root[alt*="Logo"] {
+    content: url("/css/addons/authelia/authelia-lidarr-logo/lidarr.webp");
+}
+
+h5.MuiTypography-root::after {
+    content: "- Lidarr";
+}
+
+#sign-in-button::after {
+    content: "- Lidarr";
+}

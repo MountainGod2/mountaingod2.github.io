@@ -1,0 +1,11 @@
+.MuiBox-root[alt*="Logo"] {
+    content: url("/css/addons/authelia/authelia-romm-logo/romm.webp");
+}
+
+h5.MuiTypography-root::after {
+    content: " - RomM";
+}
+
+#sign-in-button::after {
+    content: " - RomM";
+}

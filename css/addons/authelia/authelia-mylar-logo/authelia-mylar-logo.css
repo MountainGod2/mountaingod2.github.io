@@ -1,0 +1,11 @@
+.MuiBox-root[alt*="Logo"] {
+    content: url("/css/addons/authelia/authelia-mylar-logo/mylar3.webp");
+}
+
+h5.MuiTypography-root::after {
+    content: " - Mylar";
+}
+
+#sign-in-button::after {
+    content: " - Mylar";
+}

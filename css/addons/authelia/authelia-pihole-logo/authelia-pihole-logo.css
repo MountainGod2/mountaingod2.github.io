@@ -1,0 +1,11 @@
+.MuiBox-root[alt*="Logo"] {
+    content: url("/css/addons/authelia/authelia-pihole-logo/pi-hole.webp");
+}
+
+h5.MuiTypography-root::after {
+    content: " - Pi-hole";
+}
+
+#sign-in-button::after {
+    content: " - Pi-hole";
+}

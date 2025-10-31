@@ -1,0 +1,11 @@
+.MuiBox-root[alt*="Logo"] {
+    content: url("/css/addons/authelia/authelia-jellyfin-logo/jellyfin.webp");
+}
+
+h5.MuiTypography-root::after {
+    content: " - Jellyfin";
+}
+
+#sign-in-button::after {
+    content: " - Jellyfin";
+}

@@ -1,0 +1,11 @@
+.MuiBox-root[alt*="Logo"] {
+    content: url("/css/addons/authelia/authelia-traefik-logo/traefik.webp");
+}
+
+h5.MuiTypography-root::after {
+    content: " - Traefik";
+}
+
+#sign-in-button::after {
+    content: " - Traefik";
+}

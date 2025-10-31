@@ -1,0 +1,11 @@
+.MuiBox-root[alt*="Logo"] {
+    content: url("/css/addons/authelia/authelia-bazarr-logo/bazarr.webp");
+}
+
+h5.MuiTypography-root::after {
+    content: " - Bazarr";
+}
+
+#sign-in-button::after {
+    content: " - Bazarr";
+}

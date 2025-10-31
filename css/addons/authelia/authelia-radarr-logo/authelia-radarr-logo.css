@@ -1,0 +1,11 @@
+.MuiBox-root[alt*="Logo"] {
+    content: url("/css/addons/authelia/authelia-radarr-logo/radarr-light-hybrid.webp");
+}
+
+h5.MuiTypography-root::after {
+    content: " - Radarr";
+}
+
+#sign-in-button::after {
+    content: " - Radarr";
+}

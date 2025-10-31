@@ -1,0 +1,13 @@
+.MuiBox-root[alt*="Logo"] {
+    content: url("/css/addons/authelia/authelia-qbittorrent-logo/qbittorrent.webp");
+}
+
+h5.MuiTypography-root::after {
+    /*font-size: 0.875rem;*/
+    content: " - qBittorrent";
+}
+
+#sign-in-button::after {
+    /*font-size: 0.875rem;*/
+    content: " - qBittorrent";
+}

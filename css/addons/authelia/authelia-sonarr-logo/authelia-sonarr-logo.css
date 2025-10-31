@@ -1,0 +1,11 @@
+.MuiBox-root[alt*="Logo"] {
+    content: url("/css/addons/authelia/authelia-sonarr-logo/sonarr.webp");
+}
+
+h5.MuiTypography-root::after {
+    content: " - Sonarr";
+}
+
+#sign-in-button::after {
+    content: " - Sonarr";
+}
